@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Director de Departamento de Software",
+        "company":"Marcre LTDA",
+        "summary":"Análisis, desarrollo, impementación, mantenimiento y testing de los sistemas de la empresa.",
+        "range":"Enero 1994 - Presente"
+    },
+    {
+        "role":"Desarrollador",
+        "company":"Freelance",
+        "summary":"Desarrollo de sistemas a medida.",
+        "range":"Enero 1994 - 2017"
+    },
+    {
+        "role":"Docente",
+        "company":"Consejo de Formación en Educación.",
+        "summary":"Docente de Tecnologías Digitales y Docente Orientador (Laboratorio de Informática)",
+        "range":"Marzo 2007 - Presente"
+    },
+    {
+        "role":"Docente",
+        "company":"Consejo de Educación Secundaria.",
+        "summary":"Docente de Tecnologías Digitales y POITE (Laboratorio de Informática)",
+        "range":"Marzo 1998 - Febrero 2015"
+    },
+    {
+        "role":"Docente",
+        "company":"Consejo de Educación Técnico Profesional.",
+        "summary":"Docente de Informática",
+        "range":"Marzo 1993 - Febrero 2004"
+    }
+]

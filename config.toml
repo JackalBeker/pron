@@ -1,0 +1,50 @@
+baseURL = "https://example.com/"
+languageCode = "es-es"
+title = "Paola Bruccoleri"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Paola"
+    lastName = "Bruccoleri"
+    address = "San José de Mayo, UY"
+    phone = ""
+    contactNote = "Analista Programador"
+    profileImage = "img/pao.jpg"
+    email = "pbruccoleri@gmail.com"
+    description = "Analista Programador, Docente de Tecnologías Digitales"
+    favicon = "images/favicon.ico"
+    
+    # what sections
+    showSkills = false
+    showProjects = false
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showMaterial = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/paola-bruccoleri-arrambide/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/pbruccoleri"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/pbruccoleri"
+
+[[params.handles]]
+    name = "Instagram"
+    link = "https://www.instagram.com/paolabruccoleri18/?hl=es-la"
+
+[[params.handles]]
+    name = "Youtube"
+    link = "https://www.youtube.com/user/pbruccoleri/"
+
+[params.google.analytics]
+    trackerID = "UA-564298-3"

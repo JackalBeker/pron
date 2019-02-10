@@ -1,0 +1,34 @@
+[
+    {
+        "school":"Universidad de la República (UDELAR)",
+        "degree":"Analista Programador",
+        "major":"",
+        "notes":"",
+        "range":"1984 - 1988"
+    },
+    {
+        "school":"CFE - Plan Ceibal",
+        "degree":"Postítulo Innovación en las prácticas con uso de Recursos Educativos Abiertos",
+        "major":"",
+        "range":"2015 - 2016"
+    },
+    {
+        "school":"FLACSO Uruguay",
+        "degree":"Postítulo RedDidácTICa: Formación en acción. Integración de las TIC en la formación docente",
+        "major":"",
+        "range":"2016"
+    }, 
+    {
+        "school":"Centro de Ensayos de Software",
+        "degree":"Tester de Software",
+        "range":"2017"
+    },
+    {
+        "school":"Centro de Ensayos de Software",
+        "degree":"Tester Profesional de Software",
+        "major":"",
+        "range":"2018"
+    }
+
+
+]
