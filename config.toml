@@ -1,7 +1,8 @@
-baseURL = "https://example.com/"
 languageCode = "es-es"
 title = "Paola Bruccoleri"
 theme = "hugo-resume"
+
+
 
 [params]
     firstName = "Paola"
@@ -11,7 +12,7 @@ theme = "hugo-resume"
     contactNote = "Analista Programador"
     profileImage = "img/pao.jpg"
     email = "pbruccoleri@gmail.com"
-    description = "Analista Programador, Docente de Tecnologías Digitales"
+    description = "Analista Programador, Tester de Software, Docente de Tecnologías Digitales"
     favicon = "images/favicon.ico"
     
     # what sections
