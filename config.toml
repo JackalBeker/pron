@@ -1,13 +1,13 @@
 languageCode = "es-es"
 title = "Paola Bruccoleri"
 theme = "hugo-resume"
-
+baseURL = https://paolabruccoleri.netlify.com
 
 
 [params]
     firstName = "Paola"
     lastName = "Bruccoleri"
-    address = "San José de Mayo, UY"
+    address = "San José de Mayo, San José, Uruguay"
     phone = ""
     contactNote = "Analista Programador"
     profileImage = "img/pao.jpg"
