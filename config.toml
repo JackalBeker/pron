@@ -1,7 +1,7 @@
 languageCode = "es-es"
 title = "Paola Bruccoleri"
 theme = "hugo-resume"
-baseURL = https://paolabruccoleri.netlify.com
+baseURL = "https://paolabruccoleri.netlify.com"
 
 
 [params]
