@@ -18,5 +18,7 @@ outputs:
 <p>Desde hace 2 años estoy incursionando en el área de Testing de Software, área a la que me iré dedicando en los próximos años.
 </p>
 
+Tengo un blog en Wordpress donde voy escribiendo algunos artículos: [https://paolabruccoleri.wordpress.com/](https://paolabruccoleri.wordpress.com/)
+
 Todo el sitio está bajo una [licencia Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/). ([Ver licencia]({{< ref "acercadelicencia.md" >}}))
 ![CC BY NC SA](/img/by_nc_ca.png)
