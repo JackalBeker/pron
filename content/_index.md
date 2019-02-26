@@ -13,6 +13,8 @@ outputs:
 
 <p>Desde hace muchos años me dedico al área de la informática. Soy Analista programador de profesión (UDELAR) y además me he dedicado a la docencia de la informática en general desde más de 25 años.</p>
 
+<p>Vivo en Uruguay, en San José de Mayo, capital del departamento San José.</p>
+
 <p>Actualmente soy desarrolladora en una empresa en el área financiera y dicto clases de tecnologías digitales en Formación Docente (Uruguay).</p>
 
 <p>Desde hace 2 años estoy incursionando en el área de Testing de Software, área a la que me iré dedicando en los próximos años.

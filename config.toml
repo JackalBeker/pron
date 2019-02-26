@@ -12,12 +12,12 @@ baseURL = "https://paolabruccoleri.netlify.com"
     contactNote = "Analista Programador"
     profileImage = "img/pao.jpg"
     email = "pbruccoleri@gmail.com"
-    description = "Analista Programador, Tester de Software, Docente de Tecnologías Digitales"
+    description = "Analista Programador, Tester de Software, Docente de Tecnologías Digitales en Consejo de Formación en Educación (ANEP, UY)"
     favicon = "images/favicon.ico"
     
     # what sections
     showSkills = false
-    showProjects = false
+    showProjects = true
     showOpenSource = false
     showPublications = true
     showExperience = true
