@@ -1,6 +1,6 @@
 {
     "title":"Licencias Creative Commons",
-    "link":"https://marketplace.atlassian.com/vendors/1017039",
+    "link":"https://licenciascc.webcindario.com/",
     "image":"/img/licenciascc.png",
     "description":"Recurso Educativo Abierto que explica las licencias Creative Commons",
     "tags":["rea","licencias","creative commons"],
