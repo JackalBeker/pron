@@ -1,5 +1,6 @@
 {
     "title":"Licencias Creative Commons",
+    "date": "2012-03-01",
     "link":"https://licenciascc.webcindario.com/",
     "image":"/img/licenciascc.png",
     "description":"Recurso Educativo Abierto que explica las licencias Creative Commons",

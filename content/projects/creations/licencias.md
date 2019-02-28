@@ -1,5 +1,6 @@
 {
     "title":"Licencias de Software y Documentación",
+    "date": "2010-03-01",
     "link":"http://paolabruccoleri.webcindario.com/licencias/",
     "image":"/img/licencias.png",
     "description":"Webquest sobre las licencias de software y documentación",
