@@ -1,6 +1,6 @@
 ---
 title: "Cómo publicar contenidos de eXeLearning en Schoology"
-date: 2018-02-22
+date: 2018-09-20
 pubtype: "Tutorial"
 featured: true
 description: "En este tutorial te explico cómo publicar un recurso realizado en eXeLearning utilizando la plataforma de e-learning Schoology"

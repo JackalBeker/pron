@@ -1,6 +1,6 @@
 ---
 title: "Cómo publicar contenidos de eXeLearning en miarroba.es"
-date: 2018-02-22
+date: 2018-09-10
 pubtype: "Tutorial"
 featured: true
 description: "En este tutorial te explico cómo publicar un recurso realizado en eXeLearning en el hosting gratuito miarroba.es"

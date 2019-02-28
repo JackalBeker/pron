@@ -1,6 +1,6 @@
 ---
 title: "Compilado de recursos web"
-date: 2018-02-28
+date: 2019-02-28
 pubtype: "Recursos"
 featured: true
 description: "Compilado de recursos web"
