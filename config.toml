@@ -48,4 +48,4 @@ baseURL = "https://paolabruccoleri.netlify.com"
     link = "https://www.youtube.com/user/pbruccoleri/"
 
 [params.google.analytics]
-    trackerID = "UA-564298-3"
+    trackerID = "UA-564298-7"
