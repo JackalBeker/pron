@@ -9,16 +9,15 @@ outputs:
 - rss
 - json
 ---
-<p>Analista Programador, Tester de Software, Docente de Tecnologías Digitales.</p>
+Analista Programador, Tester de Software, Docente de Tecnologías Digitales.
 
-<p>Desde hace muchos años me dedico al área de la informática. Soy Analista programador de profesión (UDELAR) y además me he dedicado a la docencia de la informática en general desde más de 25 años.</p>
+Desde hace muchos años me dedico al área de la informática. Soy Analista programador de profesión (UDELAR) y además me he dedicado a la docencia de la informática en general desde más de 25 años.
 
-<p>Vivo en Uruguay, en San José de Mayo, capital del departamento San José.</p>
+Vivo en Uruguay, en San José de Mayo, capital del departamento San José.
 
-<p>Actualmente soy desarrolladora en una empresa en el área financiera y dicto clases de tecnologías digitales en Formación Docente (Uruguay).</p>
+Actualmente soy desarrolladora en una empresa en el área financiera y dicto clases de tecnologías digitales en Formación Docente (Uruguay).
 
-<p>Desde hace algunos años estoy también en el área de Testing de Software. Estudié en el [Centro de Ensayos de Software](http://www.ces.com.uy), este año terminé el diploma de Líder de Testing de Software.
-</p>
+Desde hace algunos años estoy también en el área de Testing de Software. Este año terminé el diploma de Líder de Testing de Software en el [Centro de Ensayos de Software](http://www.ces.com.uy).
 
 Tengo un blog en Wordpress donde voy escribiendo algunos artículos más técnicos, relacionados a la profesión: [https://paolabruccoleri.wordpress.com/](https://paolabruccoleri.wordpress.com/)
 
