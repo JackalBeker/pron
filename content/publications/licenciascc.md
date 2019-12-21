@@ -15,8 +15,8 @@ sitemap:
 
 Recurso Educativo Abierto que explica las licencias Creative Commons.
 
-Realizado en [https://exelearning.net/](eXeLearning), se puede abrir en la versión 2.3.1.
+Realizado en [eXeLearning](https://exelearning.net/), se puede abrir en la versión 2.3.1.
 
-Puedes descargar el archivo del proyecto (.elp) desde [https://drive.google.com/open?id=1b6TGpOLeoQnx-93LH7ml5XXB6ej-jWRu](aquí).
+Puedes descargar el archivo del proyecto (.elp) desde [aquí](https://drive.google.com/open?id=1b6TGpOLeoQnx-93LH7ml5XXB6ej-jWRu).
 
 
