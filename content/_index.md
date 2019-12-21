@@ -17,7 +17,7 @@ outputs:
 
 <p>Actualmente soy desarrolladora en una empresa en el área financiera y dicto clases de tecnologías digitales en Formación Docente (Uruguay).</p>
 
-<p>Desde hace algunos años estoy incursionando en el área de Testing de Software. Estudié en el [CES](http://www.ces.com.uy/), este año terminé el diploma de Líder de Testing de Software.
+<p>Desde hace algunos años estoy también en el área de Testing de Software. Estudié en el [Centro de Ensayos de Software](http://www.ces.com.uy), este año terminé el diploma de Líder de Testing de Software.
 </p>
 
 Tengo un blog en Wordpress donde voy escribiendo algunos artículos más técnicos, relacionados a la profesión: [https://paolabruccoleri.wordpress.com/](https://paolabruccoleri.wordpress.com/)
