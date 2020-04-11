@@ -10,9 +10,9 @@ baseURL = "https://paolabruccoleri.netlify.com"
     address = "San José de Mayo, San José, Uruguay"
     phone = ""
     contactNote = "Analista Programador"
-    profileImage = "img/pao.jpg"
+    profileImage = "img/paola.jpg"
     email = "pbruccoleri@gmail.com"
-    description = "Analista Programador, Tester de Software, Docente de Tecnologías Digitales en Consejo de Formación en Educación (ANEP, UY)"
+    description = "Analista Programador, Tester de Software, Docente de Tecnologías Digitales en Consejo de Formación en Educación (ANEP CFE, UY)"
     favicon = "images/favicon.ico"
     
     # what sections
