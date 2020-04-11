@@ -15,9 +15,9 @@ Desde hace muchos años me dedico al área de la informática. Soy Analista prog
 
 Vivo en Uruguay, en San José de Mayo, capital del departamento de San José.
 
-Actualmente soy desarrolladora en una empresa en el área financiera y dicto clases de tecnologías digitales en Formación Docente (Uruguay) y en el Centro de Ensayos de Software.
-
 Desde hace algunos años estoy también en el área de Testing de Software, donde cursé la carrera de Testing de Software en el [Centro de Ensayos de Software](http://www.ces.com.uy).
+
+Actualmente soy desarrolladora en una empresa en el área financiera y dicto clases de tecnologías digitales en Formación Docente (Uruguay) y en el Centro de Ensayos de Software.
 
 Tengo un blog en Wordpress donde voy escribiendo algunos artículos más técnicos, relacionados a la profesión: [https://paolabruccoleri.wordpress.com/](https://paolabruccoleri.wordpress.com/)
 
