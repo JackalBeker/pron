@@ -9,7 +9,7 @@ outputs:
 - rss
 - json
 ---
-Analista Programador, Tester de Software, Docente TI.
+Analista Programador, Tester de Software, Docente TI. 
 
 Desde hace muchos años me dedico al área de la informática. Soy Analista programador (UDELAR) y además me he dedicado a la docencia de la informática en general desde más de 25 años.
 
